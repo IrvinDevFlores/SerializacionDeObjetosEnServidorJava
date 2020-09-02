@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BufferImage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BufferImage_jar</output-path>
+    <root id="archive" name="BufferImage.jar">
+      <element id="module-output" name="BufferImage" />
+    </root>
+  </artifact>
+</component>
